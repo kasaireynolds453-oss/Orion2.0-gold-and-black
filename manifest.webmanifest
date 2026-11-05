@@ -1,0 +1,11 @@
+{
+  "name": "ORION Black Gold",
+  "short_name": "ORION",
+  "description": "Your personal Black Gold AI assistant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
