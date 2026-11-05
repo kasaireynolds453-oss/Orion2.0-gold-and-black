@@ -49,7 +49,7 @@ A real AI connection should use a secure server-side endpoint.
     <p id="orionMusicStatus">ORION MUSIC SYSTEM READY</p>
   </div>
 </section>
-
+  </body>
 <style>
 #orion-music-center {
   padding: 30px 15px;
